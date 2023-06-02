@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    width: 920px;
+    height: auto;
+    border: 1px solid black;
+    height: 100vh;
+}
+
+
+.img1{
+    width: 690px;
+    height: 380px;
+    position: fixed;
+    border-radius: 6.2px;
+    margin-top: 160px;
+    
+}
+
+.img2{
+    position: fixed;
+    margin-top: 160px;
+    border-radius: 6.2px;
+    margin-left: 237px;
+    height: 180px;
+    width: 200px;
+    
+}
+
+.img3{
+    border-radius: 6.2px;
+    margin-top: 360px;
+    position: fixed;
+    width: 200px;
+    height: 180px;
+    margin-left: 708px;
+}
